@@ -28,7 +28,7 @@ This project implements a multi-task sentence transformer using BERT (`bert-base
 ## 📂 Project Structure
 
 ```
-ml_apprentice/
+Interview/
 ├── app/
 │   ├── model.py         # Multi-task sentence transformer (Task 1 & 2)
 │   ├── utils.py         # Training loop with epoch support (Task 4)
